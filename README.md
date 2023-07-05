@@ -52,13 +52,13 @@ To get started with the Text Classification Analysis project, please follow the 
 
 # Usage
 * Prepare your training data
-organize your Twitter text data into labeled categories: Arts & Culture, Business & Entrepreneur, Daily life, Pop culture, Science & Technology, and Sport & Gaming.
+Organize your Twitter text data into labeled categories: Arts & Culture, Business & Entrepreneur, Daily life, Pop culture, Science & Technology, and Sport & Gaming.
 * Preprocess the text data in order to be ready for training and modelling
 Run the preprocessing script to clean and transform the Twitter text data:
-such as text cleaning, tokenization, lemmatization and feature extraction.
+such as text cleaning, tokenization, lemmatization, and feature extraction.
 * Split your data into training and testing sets.
 * Train the text classification models
-* Evaluate the models: Assess the performance of the trained models using evaluation metrics such as accuracy, precision, recall, and F1 score and based on the eva;uation result select the best model 
+* Evaluate the models: Assess the performance of the trained models using evaluation metrics such as accuracy, precision, recall, and F1 score and based on the evaluation result, select the best model 
 * Deploy the model: once you have selected the best model, you can deploy it in your desired application or environment.
 
 # License
