@@ -26,6 +26,8 @@ Text classification is essential for applications like sentiment analysis, subje
 * Sport & Gaming
 * These categories are specifically designed to capture the various topics discussed on Twitter.
 
+**Employing robust preprocessing steps**:including tokenization, lowercasing, and stopword removal, to ensure clean and high-quality data for training and classification and Harnessing advanced feature extraction techniques such as Bag-of-Words and TF-IDF.
+
 **Model Selection and Evaluation**:
 This project enables the evaluation and comparison of different machine learning models( Naive Bayes, Logistic regression, and Random forest Classifier) for accurate classification. It includes performance metrics such as accuracy, precision, recall, and F1 score to assess the effectiveness of each model. Then the best-performing model was selected for deployment.
 
